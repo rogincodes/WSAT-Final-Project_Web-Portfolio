@@ -4,7 +4,7 @@
 
 #### Tech used: HTML/CSS (the only techs we learned from this course)
 
-Note: It was my first time doing web development. So my codes are as messy as they can get, and the design is not very modern and aesthetic.
+Note: It was my first time with web development. So my codes are as messy as they can get, and the design is not very modern and aesthetic.
 
 #### Website snapshots:
 Home
