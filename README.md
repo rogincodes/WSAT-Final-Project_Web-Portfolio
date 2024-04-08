@@ -20,6 +20,7 @@ Feedback
 ![home](https://github.com/rogincodes/Web_Systems_Final_Output/blob/main/snapshots/Feedback.png)
 
 Some of my favorite activities:
+
 Activity 4 - Song Lyrics
 ![home](https://github.com/rogincodes/Web_Systems_Final_Output/blob/main/snapshots/Activity%204%20-%20Song%20Lyrics.png)
 
